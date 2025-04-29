@@ -10,3 +10,9 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ### Backend
 - Firebase: Plataforma de backend como serviço (BaaS) para autenticação, banco de dados e hospedagem.
+
+### Implantação
+- Vercel: O projeto foi implantado na Vercel, permitindo uma hospedagem rápida, confiável e com suporte a CI/CD.
+
+## Licença
+Este projeto está sob a licença MIT.
